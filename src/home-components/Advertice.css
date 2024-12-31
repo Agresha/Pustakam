@@ -1,0 +1,17 @@
+.Advertice{
+    height: 400px;
+    width:100%
+}
+.Advertice img{
+    height: 400px;
+    width:100%
+}
+
+@media only screen and (max-width: 550px) {
+    .Advertice {
+      height: 200px;
+    }
+    .Advertice img {
+        height: 200px;
+    }
+  }
